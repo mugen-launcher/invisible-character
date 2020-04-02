@@ -1,0 +1,17 @@
+
+[Info]
+name = "Invisible"
+displayname = "Invisible"
+versiondate = 02,04,2020
+mugenversion = 1.1
+author = "neolao"
+
+
+[Files]
+cmd     = Invisible.cmd
+cns     = Invisible.cns
+st      = Invisible.cns
+sprite  = Invisible.sff
+anim    = Invisible.air
+sound   = Invisible.snd
+pal1    = Invisible.act
